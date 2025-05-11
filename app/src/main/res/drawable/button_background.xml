@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00C853" /> <!-- Match the green color -->
+    <corners android:radius="12dp" /> <!-- Adjust the corner radius to match the image -->
+</shape>

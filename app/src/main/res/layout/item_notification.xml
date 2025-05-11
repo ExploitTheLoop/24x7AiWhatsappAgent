@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:background="@drawable/control_bg"
+    android:layout_marginBottom="8dp">
+
+    <!-- Avatar -->
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_person"
+        android:background="@drawable/circle_bg"
+        android:padding="8dp"
+        android:scaleType="centerInside"
+        app:tint="#FFFFFF" />
+
+    <!-- Content Section -->
+    <LinearLayout
+        android:layout_marginStart="12dp"
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content">
+
+        <!-- Sender -->
+        <TextView
+            android:id="@+id/tvSender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+1234567890"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textIsSelectable="true"/>
+
+        <!-- Message -->
+        <TextView
+            android:id="@+id/tvMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hey, are you there?"
+            android:textColor="#CCCCCC"
+            android:textSize="14sp"
+            android:layout_marginTop="4dp"
+            android:textIsSelectable="true"/>
+
+        <!-- Timestamp aligned right -->
+        <TextView
+            android:id="@+id/tvTimestamp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="17 Apr 2025, 8:17 AM"
+            android:textColor="#AAAAAA"
+            android:textSize="12sp"
+            android:gravity="end"
+            android:layout_marginTop="4dp"
+            android:textIsSelectable="true"/>
+    </LinearLayout>
+</LinearLayout>

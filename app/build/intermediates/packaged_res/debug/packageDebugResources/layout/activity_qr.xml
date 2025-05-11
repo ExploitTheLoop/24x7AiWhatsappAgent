@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="#111B21"
+    android:padding="24dp">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Connect WhatsApp"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Subtitle -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Scan the QR code to link your WhatsApp account"
+        android:textColor="#CCCCCC"
+        android:textSize="14sp"
+        android:layout_marginBottom="24dp" />
+
+    <!-- QR Code Container -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/qr_container_rounded"
+        android:layout_marginBottom="16dp"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/qrImageView"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/qr" />
+    </LinearLayout>
+
+    <!-- Status -->
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⏳ QR Code is loading..."
+        android:textColor="#FFEB3B"
+        android:textSize="16sp"
+        android:layout_marginBottom="4dp" />
+
+    <!-- Refresh Info -->
+    <TextView
+        android:id="@+id/countertxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QR code will refresh in 0 seconds"
+        android:textColor="#AAAAAA"
+        android:textSize="12sp"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Footer Instructions -->
+    <TextView
+        android:id="@+id/instructionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to connect:\n1. Open WhatsApp on your phone\n2. Tap Menu or Settings and select WhatsApp Web\n3. Point your phone camera at this screen\n4. Click the button below after scanning"
+        android:textColor="#CCCCCC"
+        android:textSize="13sp"
+        android:gravity="center"
+        android:textAlignment="center" />
+</LinearLayout>

@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\color_switch_track.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\color\\switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_google_sheet.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_google_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_control_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\control_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\raw_vip.json.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\raw\\vip.json"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_dropdown_arrow.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_dropdown_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_badge_green.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\badge_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_userdashboard.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_userdashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_my_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\my_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_spinner_border.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_pause.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_logout_btn.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\logout_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_dialog_background_rounded.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\dialog_background_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_button_gradient.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\button_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_error.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_vip_badge_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\vip_badge_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_badge_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_wifi.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_robot.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_robot.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_item_notification.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_edit_text_border.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_speaker.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_circle_greenbig.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\circle_greenbig.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\raw_robot_loading.json.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\raw\\robot_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_microphone.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_microphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_connected_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\connected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_qr_container_rounded.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\qr_container_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_reply.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_qr_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\qr_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_chat_bubble.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_chat_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\raw_premium.json.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\raw\\premium.json"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_bolt.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_bolt.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_circle_green.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_cross.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_cross.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_sheets.png.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\sheets.png"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_disconnected_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\disconnected_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\color_switch_thumb.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\color\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_activity_qr.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\activity_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_red_border.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "com.animetone.myapplication.app-debug-41:/layout_activity_dashboard.xml.flat",
+        "source": "com.animetone.myapplication.app-main-43:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_arrow_up_right.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_arrow_up_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\layout_dialog_info.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_circle_red.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_qr.png.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\qr.png"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_whatsapp_logo.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_whatsapp_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_key.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_green_button_rounded.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\green_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_walking.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_walking.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_stat_box.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\stat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-debug-41:\\drawable_ic_no_notifications.xml.flat",
+        "source": "C:\\Users\\sayan\\.gradle\\daemon\\8.9\\com.animetone.myapplication.app-main-43:\\drawable\\ic_no_notifications.xml"
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/default_border_color" /> <stroke
+                    android:width="2dp"
+                    android:color="@android:color/holo_green_dark" />
+                    <corners android:radius="4dp" /> <padding android:bottom="8dp" android:left="8dp" android:right="8dp" android:top="8dp" />
+                </shape>
+            </item>
+            <item
+                android:drawable="@drawable/ic_dropdown_arrow"
+                android:gravity="center|end"
+                android:right="12dp"
+                android:width="24dp"
+                android:height="24dp" />
+        </layer-list>
+    </item>
+
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/default_border_color" />
+                    <stroke
+                        android:width="1dp"
+                        android:color="@color/default_border_color" />
+                    <corners android:radius="4dp" /> <padding android:bottom="8dp" android:left="8dp" android:right="8dp" android:top="8dp" />
+                </shape>
+            </item>
+            <item
+                android:drawable="@drawable/ic_dropdown_arrow"
+                android:gravity="center|end"
+                android:right="12dp"
+                android:width="24dp"
+                android:height="24dp" />
+        </layer-list>
+    </item>
+</selector>
