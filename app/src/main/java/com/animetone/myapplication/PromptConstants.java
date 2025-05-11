@@ -1,8 +1,6 @@
 package com.animetone.myapplication;
 
 public class PromptConstants {
-
-    //public static final String BASE_URL = "http://192.168.0.106:3000";
     public static final String BASE_URL = "https://whatsappbot-production-fedf.up.railway.app";
    // public static final String BASE_URL = "https://whatsappbot-a018.onrender.com";
     public static final String SHEET_BASE_URL = "https://opensheet.elk.sh/";
