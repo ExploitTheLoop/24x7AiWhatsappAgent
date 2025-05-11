@@ -34,6 +34,9 @@ A demo of the project can be viewed on [YouTube](https://www.youtube.com/watch?v
 The control panel interface displays:
 - **Bot Statistics**: Active Bots (e.g., 136), Total Views (e.g., 5.4K), Messages (e.g., 51.6K).
 - **Assistant Controls**: Options to enable/disable Internet Detection Mode, Shadow Mode, and notifications.
+- Below is a screenshot of the control panel:
+
+![Control Panel Screenshot](images/screenshot.png)
 
 ## Requirements
 - Android device with WhatsApp installed.
