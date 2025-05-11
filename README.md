@@ -36,7 +36,7 @@ The control panel interface displays:
 - **Assistant Controls**: Options to enable/disable Internet Detection Mode, Shadow Mode, and notifications.
 - Below is a screenshot of the control panel:
 
-![Control Panel Screenshot](images/screenshot.png)
+![Control Panel Screenshot](6100502677894055412.jpg)
 
 ## Requirements
 - Android device with WhatsApp installed.
